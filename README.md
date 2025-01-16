@@ -6,7 +6,7 @@ MOD安装说明：
    
    ![图片](https://github.com/a418teapot/LethalCompanyMOD/blob/main/0.png)
 
-3. 运行r2modman，并导入profile（.r2z）profile下载地址:[profile](https://github.com/a418teapot/LethalCompanyMOD/blob/main/xcfy_1737021025500.r2z)
+3. 运行r2modman，并导入profile（.r2z）profile下载地址:[profile](https://gh.llkk.cc/https://github.com/a418teapot/LethalCompanyMOD/blob/main/xcfy_1737021025500.r2z)
    
    ![图片](https://github.com/a418teapot/LethalCompanyMOD/blob/main/1.png)
 
